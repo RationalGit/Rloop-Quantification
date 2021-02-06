@@ -1,6 +1,6 @@
 library(data.table)
 
-setwd('~/R analysis/input')
+setwd('./R analysis/input')
 
 #Add names of well treatments, stains and plate treatments
 plate.key <- read.csv("PlateKey.csv")
