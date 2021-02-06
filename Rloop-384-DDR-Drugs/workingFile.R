@@ -6,7 +6,7 @@ library(scales)
 library(gtools)
 
 #Set the working directory to the local input folder
-setwd('/Users/webbert/Documents/Work/Experiments/LateSubDriv Large files:folders (unsynced)/Gene workup/DDR/DDR IF/DDR IF/20181128 DDR 5EU 384 IR/R analysis')
+setwd('./R analysis')
 
 
 ## Check loaded files
