@@ -1,6 +1,6 @@
 library(data.table)
 
-setwd('/Users/webbert/Documents/Work/Experiments/LateSubDriv Large files:folders (unsynced)/Gene workup/DDR/DDR IF/DDR IF/20181128 DDR 5EU 384 IR/R analysis/input')
+setwd('~/R analysis/input')
 
 #Add names of well treatments, stains and plate treatments
 plate.key <- read.csv("PlateKey.csv")
